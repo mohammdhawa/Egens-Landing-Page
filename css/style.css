@@ -1,6 +1,9 @@
 body {
-    background-color: #e9edf4;
     font-family: 'Jost', sans-serif;
+}
+
+.main-background {
+    background-color: #e9edf4;
 }
 
 .nav-link {
@@ -44,4 +47,13 @@ body {
 
 .mybackground.scrolled {
     background: white !important;
+}
+
+.feature-icon {
+    background-color: #e9edf4;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 95px;
 }
