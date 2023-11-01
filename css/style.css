@@ -39,18 +39,9 @@ body {
 }
 
 .mybackground {
-    background: green !important;
-    transition: 1.5s ease-in;
-}
-
-.mybackground.scrolled {
-    background-color: red !important;
-}
-
-.bg-white {
     background: #E9EDF3 !important;
   }
 
-.bg-white.scrolled {
+.mybackground.scrolled {
     background: white !important;
 }
