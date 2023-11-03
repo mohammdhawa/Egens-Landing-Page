@@ -57,3 +57,44 @@ body {
     text-align: center;
     line-height: 95px;
 }
+
+.service-subtitle {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.9;
+    color: #7153d9;
+    letter-spacing: 8px;
+}
+
+.service-title {
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 1.16;
+    color: #1c1c1c;
+}
+
+.mycard {
+    box-shadow: 0px 12px 42px rgba(69, 38, 177, 0.1), 11px 6px 25px rgba(69, 38, 177, 0.1);
+    border-radius: 5%;
+}
+
+.mycard p {
+    font-size: 18px;
+}
+
+.mycard h3:hover {
+    color: #4526b1;
+}
+
+.readmore {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    transition: 0.3s;
+    font-size: 18px;
+}
+
+.readmore:hover {
+    color: #4526b1;
+    margin-left: 10px;
+}
